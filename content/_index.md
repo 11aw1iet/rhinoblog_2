@@ -5,5 +5,5 @@ copyright: "team rhino"
 description: "수소 충전소 입지선정 프로젝트"
 
 menu:
-    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+   
 ---

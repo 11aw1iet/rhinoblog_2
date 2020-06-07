@@ -1,11 +1,7 @@
 ---
-title: "Links"
+title: "Visualization"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
-
-You can download Grayscale for free from the Github page.
-
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+## 시각화 부분 자리
