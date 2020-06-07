@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rhino project</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Rhino project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>https://github.com/statkwon/rhino (Rhinoteam)</managingEditor>
+    <webMaster>https://github.com/statkwon/rhino (Rhinoteam)</webMaster>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RhinoTool</title>
+      <link>/post/rhinotool/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <author>https://github.com/statkwon/rhino (Rhinoteam)</author>
+      <guid>/post/rhinotool/</guid>
+      <description>아프리카 초원의 코뿔소는 풀과 약간의 물만 가지고 오늘도 자동차만한 몸을 달립니다.
+#개요
+  탄소 에너지의 고갈과 환경파괴는 수많은 문제를 낳고, 인류는 선택의 기로에 섰습니다. 저공해의 새로운 에너지원은 인류의 해결책 중 하나였고, 수소 에너지 또한 거기 해당됩니다. 마침내 수소를 이용해 전기를 생산하여 작동하는 자동차(수소전기차, FCEV)가 한국에서 상용화되었습니다. 그러나 수소를 충전할 수 있는 시설이 한국에는 아직 30개 남짓이며, 서울시 내에 설치된 숫자는 3개에 불과합니다(2020.05 기준).
+  &amp;lsquo;Rhino Project&amp;lsquo;에서는 수소차에게 수소를 공급할 수 있는 충전소가 앞으로 많아질 것에 대비하여, 다양한 요인을 고려한 충전소 입지 추천을 제공합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
