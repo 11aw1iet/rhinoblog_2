@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Rhino"
-subtitle: "2020데이터사이언스 입문"
+title: Rhino
+subtitle: 2020 데이터사이언스 입문
 author:
     name: team 코뿔소
 date: "`r Sys.Date()`"
@@ -77,3 +77,4 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE,
 
 
 
+[Rhino github page]("https://github.com/statkwon/rhino")

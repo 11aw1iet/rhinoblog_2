@@ -1,3 +1,3 @@
 ---
-headless: TRUE
+headless: FALSE
 ---

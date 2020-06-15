@@ -1,8 +1,0 @@
----
-title: "Visualization"
-weight: 7
-improvecontrast: true
----
-
-## 시각화
-https://ysuks.shinyapps.io/dashboard/
